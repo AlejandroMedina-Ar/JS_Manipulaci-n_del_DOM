@@ -125,3 +125,15 @@ form {
 .noTasks {
   font-size: 48px;
 }
+
+.piePag {
+  font-family: 'Dosis', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 15px;
+  font-size: 16px;
+  color: #f00;
+}
+  
+
